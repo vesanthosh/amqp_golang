@@ -1,6 +1,6 @@
 # Binaries for programs and plugins
-consumer
-producer
+direct_consumer
+direct_producer
 *.exe
 *.exe~
 *.dll
